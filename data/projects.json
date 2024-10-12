@@ -1,0 +1,103 @@
+{
+    "work": [
+      {
+        "id": "project1",
+        "title": "Project 1",
+        "category": "Work",
+        "previewImage": "/assets/profile/Billy-Sweeney-1600x1600.jpg",
+        "description": "Short description of Project 1",
+        "fullDescription": "Detailed description of Project 1",
+        "images": [
+          "path/to/image1.jpg",
+          "path/to/image2.jpg"
+        ]
+      },
+      {
+        "id": "project2",
+        "title": "Project 2",
+        "category": "Work",
+        "previewImage": "/assets/profile/Billy-Sweeney-1600x1600.jpg",
+        "description": "Short description of Project 1",
+        "fullDescription": "Detailed description of Project 1",
+        "images": [
+          "path/to/image1.jpg",
+          "path/to/image2.jpg"
+        ]
+      },
+      {
+        "id": "project2",
+        "title": "Project 3",
+        "category": "Work",
+        "previewImage": "/assets/profile/Billy-Sweeney-1600x1600.jpg",
+        "description": "Short description of Project 1",
+        "fullDescription": "Detailed description of Project 1",
+        "images": [
+          "path/to/image1.jpg",
+          "path/to/image2.jpg"
+        ]
+      },
+      {
+        "id": "project2",
+        "title": "Project 4",
+        "category": "Work",
+        "previewImage": "/assets/profile/Billy-Sweeney-1600x1600.jpg",
+        "description": "Short description of Project 1",
+        "fullDescription": "Detailed description of Project 1",
+        "images": [
+          "path/to/image1.jpg",
+          "path/to/image2.jpg"
+        ]
+      },
+      {
+        "id": "project2",
+        "title": "Project 5",
+        "category": "Work",
+        "previewImage": "/assets/profile/Billy-Sweeney-1600x1600.jpg",
+        "description": "Short description of Project 1",
+        "fullDescription": "Detailed description of Project 1",
+        "images": [
+          "path/to/image1.jpg",
+          "path/to/image2.jpg"
+        ]
+      },
+      {
+        "id": "project2",
+        "title": "Project 6",
+        "category": "Work",
+        "previewImage": "/assets/profile/Billy-Sweeney-1600x1600.jpg",
+        "description": "Short description of Project 1",
+        "fullDescription": "Detailed description of Project 1",
+        "images": [
+          "path/to/image1.jpg",
+          "path/to/image2.jpg"
+        ]
+      }
+
+    ],
+    "experimental": [
+      {
+        "id": "exp-project1",
+        "title": "Experimental Project 1",
+        "category": "Experimental",
+        "previewImage": "/assets/profile/Billy-Sweeney-1600x1600.jpg",
+        "description": "Short description of Experimental Project 1",
+        "fullDescription": "Detailed description of Experimental Project 1",
+        "images": [
+          "path/to/exp-image1.jpg",
+          "path/to/exp-image2.jpg"
+        ]
+      },
+      {
+        "id": "exp-project2",
+        "title": "Project 2",
+        "category": "Work",
+        "previewImage": "/assets/profile/Billy-Sweeney-1600x1600.jpg",
+        "description": "Short description of Project 1",
+        "fullDescription": "Detailed description of Project 1",
+        "images": [
+          "path/to/image1.jpg",
+          "path/to/image2.jpg"
+        ]
+      }
+    ]
+  }
