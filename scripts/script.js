@@ -287,7 +287,7 @@ $(document).ready(function() {
 // Function to fetch project data from JSON file
 async function fetchProjectData() {
     try {
-        const response = await fetch('/data/projects.json');
+        const response = await fetch('/portfolio/data/projects.json');
         const data = await response.json();
         return data;
     } catch (error) {
