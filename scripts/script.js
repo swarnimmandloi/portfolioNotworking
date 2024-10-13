@@ -287,7 +287,7 @@ $(document).ready(function() {
 // Function to fetch project data from JSON file
 async function fetchProjectData() {
     try {
-        const response = await fetch('/data/projects.json');
+        const response = await fetch('../data/projects.json');
         const data = await response.json();
         return data;
     } catch (error) {
@@ -337,8 +337,9 @@ function createProjectCard(project) {
     `;
 
     // Add click event to navigate to project details
-    card.addEventListener('click', () => {
-        window.location.href = `project.html?id=${project.id}&category=${project.category.toLowerCase()}`;
+    card.addEventListener('click', (event) => {
+        event.preventDefault(); // Prevent any default action
+        window.open(`project.html?id=${project.id}&category=${project.category.toLowerCase()}`, '_blank');
     });
 
     return card;
